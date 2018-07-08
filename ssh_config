@@ -1,0 +1,12 @@
+Host xxx.web1a
+  User ec2-user
+  HostName 52.197.147.250
+  IdentityFile ~/.ssh/aws-eb2
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host xxx.web1b
+  User ec2-user
+  HostName 54.95.73.88
+  IdentityFile ~/.ssh/aws-eb2
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
